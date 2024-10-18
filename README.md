@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @BrunoKBor
+- 👋 Hi, I'm Bruno
 - 👀 I’m interested in AI, IoT, Web and telecommunications
 - 🌱 I’m currently learning advanced machine learning algorithms and IoT system integration.
 - 💞️ I’m looking to collaborate on  innovative projects that leverage AI and IoT for practical solutions
